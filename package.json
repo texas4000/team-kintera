@@ -1,0 +1,15 @@
+{
+  "name": "team-kintera",
+  "version": "0.0.1",
+  "description": "Scrapes and return's the team's fundraising goal and current amount raised",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ethan Perez",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.71.0"
+  }
+}
